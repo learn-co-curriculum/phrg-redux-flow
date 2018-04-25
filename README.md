@@ -144,3 +144,4 @@ As for the 'no side effects' characteristic, there's something pretty subtle goi
 3. Our reducer is a pure function which means that given the same arguments of state and action, it will always produce the same new state. Also it means that our reducer never updates the previous state, but rather creates a new state object.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-flow'>Redux Flow</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Using Pure Functions to Update Application State</p>
